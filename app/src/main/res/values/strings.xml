@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="product_name_title">Name</string>
+    <string name="product_quantity_title">Quantity</string>
+    <string name="product_price_title">Price</string>
+    <string name="enter_info_supplier_number">Supplier Number</string>
+    <string name="enter_info_supplier_number_hint">hint: numbers only format 10 digits</string>
+    <string name="order_product">Order Product</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="create_product_title">Add Product</string>
+    <string name="delete_confirmation">Are you sure you want to delete?</string>
+    <string name="decrement_product_quantity">Remove (-1)</string>
+    <string name="increment_product_quantity">Add (+1)</string>
+    <string name="save_product_quantity_edit">Save</string>
+    <string name="no_items_add_suggestions">Click + to add new products</string>
+    <string name="product_name_error">Product name should not be blank</string>
+    <string name="product_cents_error">Please enter the cents</string>
+    <string name="product_dollar_error">Product amount cannot be blank</string>
+    <string name="product_quantity_error">Product quantity cannot be blank</string>
+    <string name="product_supplier_number_error"> Supplier Number must be 10 digits long</string>
+    <string name="note_message">Note:- After increasing or decreasing the product quantity, please save your progress by clicking the \'Save\' button. Thank you!</string>
+
+    <string-array name="icons_array">
+        <item>Mobile and Laptops</item>
+        <item>Electronics</item>
+        <item>Tools</item>
+        <item>Security items</item>
+        <item>Other</item>
+    </string-array>
+</resources>
